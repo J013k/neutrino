@@ -241,5 +241,6 @@ Loader | Author
 [RiptOPL](https://github.com/NathanNeurotic/Open-PS2-Loader) | NathanNeurotic
 [wOPL](https://github.com/ps2homebrew/wOPL) | KrahJohlito
 [Modulo](https://github.com/AdityaKumar7209/Modulo-R1-Beta-Preview---PS2) | AdityaKumar7209
+[LUNA](https://github.com/dnunezx/LUNA) | dnunezx
 
 Add your project here? Send me a PR.
